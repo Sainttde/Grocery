@@ -1,22 +1,57 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Python Console" timestamp="1543567183829">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/python codes/python3venv/paperCode/usegcloud.py" timestamp="1543856168681">
+        <mark key="[" line="8" column="53" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHIgPSBvcy5wb3BlbignZ2Nsb3VkIGNvbmZpZyBjb25maWd1cmF0aW9ucyBsaXN0JykK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHIgPSBvcy5wb3BlbignZ2Nsb3VkIGNvbmZpZyBjb25maWd1cmF0aW9ucyBsaXN0JykK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChsaW5lKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZvciBsaW5lIGluIHIucmVhZGxpbmVzKCk6Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgZCAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHIgPSBvcy5wb3BlbignZ2Nsb3VkIGNvbmZpZyBsaXN0JykK</text>
+      </register>
+      <register name="-" type="4">
+        <text>print('your config in on GCP is:')</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
