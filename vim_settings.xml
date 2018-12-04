@@ -6,10 +6,11 @@
       <file name="/Python Console" timestamp="1543567183829">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python codes/python3venv/paperCode/usegcloud.py" timestamp="1543889902366">
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/python codes/python3venv/paperCode/usegcloud.py" timestamp="1543890877743">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="24" />
+        <mark key="^" line="21" column="24" />
       </file>
     </filemarks>
     <jumps />
@@ -17,8 +18,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbnN0YW5jZV9uYW1lID0gaW5wdXQoInBsZWFzZSBpbnB1dCB0aGUgaW5zdGFuY2UncyBuYW1lIHlvdSB3YW50IHRvIGNvbm5lY3Q6IikK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZV9uYW1lID0gaW5wdXQoInBsZWFzZSBpbnB1dCB0aGUgaW5zdGFuY2UncyBuYW1lIHlvdSB3YW50IHRvIGNvbm5lY3Q6IikK</text>
+      <register name="&quot;" type="4">
+        <text>e_stause</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnJXMgaXMgYWN0aXZhdGVkISEnICUgY2hvc2VuX2NvbmZpZykK</text>
@@ -41,8 +42,11 @@
       <register name="8" type="2">
         <text encoding="base64">ICAgIHIgPSBvcy5wb3BlbignZ2Nsb3VkIGNvbmZpZyBsaXN0JykK</text>
       </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
       <register name="-" type="4">
-        <text>os.popen((g_command))</text>
+        <text>e_stause</text>
       </register>
     </registers>
     <search>
@@ -51,7 +55,9 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
