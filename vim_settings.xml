@@ -6,20 +6,23 @@
       <file name="/Python Console" timestamp="1543567183829">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python codes/python3venv/paperCode/usegcloud.py" timestamp="1543890877743">
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="21" column="24" />
-        <mark key="^" line="21" column="24" />
+      <file name="$USER_HOME$/python codes/python3venv/paperCode/usegcloud.py" timestamp="1543891726244">
+        <mark key="[" line="41" column="33" />
+        <mark key="]" line="41" column="33" />
+        <mark key="." line="41" column="33" />
+        <mark key="^" line="41" column="33" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYyA9IGlucHV0KCdUaGUgaW5zdGFuY2UgaXMgbm90IHJ1bm5pbmcsIGRvIHUgd2FudCB0byBzdGFydCBpdD8/KHllcy9ubyknIG9yIHllcykK</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbnN0YW5jZV9uYW1lID0gaW5wdXQoInBsZWFzZSBpbnB1dCB0aGUgaW5zdGFuY2UncyBuYW1lIHlvdSB3YW50IHRvIGNvbm5lY3Q6IikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>e_stause</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYyA9IGlucHV0KCdUaGUgaW5zdGFuY2UgaXMgbm90IHJ1bm5pbmcsIGRvIHUgd2FudCB0byBzdGFydCBpdD8/KHllcy9ubyknIG9yIHllcykK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnJXMgaXMgYWN0aXZhdGVkISEnICUgY2hvc2VuX2NvbmZpZykK</text>
@@ -46,7 +49,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>e_stause</text>
+        <text>print</text>
       </register>
     </registers>
     <search>
@@ -57,6 +60,7 @@
       <history-search />
       <history-cmd>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
